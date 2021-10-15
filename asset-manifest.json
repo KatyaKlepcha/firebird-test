@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firebird-test/static/css/main.48e83269.chunk.css",
+    "main.js": "/firebird-test/static/js/main.27af000e.chunk.js",
+    "main.js.map": "/firebird-test/static/js/main.27af000e.chunk.js.map",
+    "runtime-main.js": "/firebird-test/static/js/runtime-main.4415c509.js",
+    "runtime-main.js.map": "/firebird-test/static/js/runtime-main.4415c509.js.map",
+    "static/js/2.6e46b12d.chunk.js": "/firebird-test/static/js/2.6e46b12d.chunk.js",
+    "static/js/2.6e46b12d.chunk.js.map": "/firebird-test/static/js/2.6e46b12d.chunk.js.map",
+    "static/js/3.b329a960.chunk.js": "/firebird-test/static/js/3.b329a960.chunk.js",
+    "static/js/3.b329a960.chunk.js.map": "/firebird-test/static/js/3.b329a960.chunk.js.map",
+    "index.html": "/firebird-test/index.html",
+    "static/css/main.48e83269.chunk.css.map": "/firebird-test/static/css/main.48e83269.chunk.css.map",
+    "static/js/2.6e46b12d.chunk.js.LICENSE.txt": "/firebird-test/static/js/2.6e46b12d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4415c509.js",
+    "static/js/2.6e46b12d.chunk.js",
+    "static/css/main.48e83269.chunk.css",
+    "static/js/main.27af000e.chunk.js"
+  ]
+}
