@@ -1,0 +1,23 @@
+.search-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 19px 0;
+}
+.inputUsersList {
+    border: 1px solid;
+    padding: 5px;
+}
+
+.usersListButton {
+    margin: 20px;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+
+
+
+
+
+

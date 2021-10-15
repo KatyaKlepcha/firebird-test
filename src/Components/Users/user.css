@@ -1,0 +1,45 @@
+.users-wrapper {
+    padding: 10px;
+}
+
+.users {
+    border: 2px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #a5bde9;
+}
+
+
+@media (max-width: 340px ) {
+    .users {
+        flex-wrap: wrap;
+    }
+}
+
+.user {
+    margin: 10px;
+}
+
+.usersSpanTitle {
+
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.usersSpanDate {
+    font-weight: bold;
+}
+
+
+.button {
+    margin: 10px;
+    font-weight: bolder;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.modalTitle {
+    text-decoration: underline;
+
+}
